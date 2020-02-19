@@ -1,5 +1,4 @@
 Pod::Spec.new do |s|
---allow-warnings
 # 1
 s.platform = :ios
 s.ios.deployment_target = '12.0'
@@ -8,7 +7,7 @@ s.summary = "RWPickFlavor lets a user select an ice cream flavor."
 s.requires_arc = true
 
 # 2
-s.version = "0.1.5"
+s.version = "0.1.6"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }

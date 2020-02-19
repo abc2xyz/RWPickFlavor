@@ -27,6 +27,8 @@ s.source = { :git => "https://github.com/TheCodedSelf/RWPickFlavor.git",
 s.framework = "UIKit"
 s.dependency 'Alamofire', '~> 4.7'
 s.dependency 'MBProgressHUD', '~> 1.1.0'
+s.dependency 'GoogleMaps'
+
 
 # 8
 s.source_files = "RWPickFlavor/**/*.{swift}"
